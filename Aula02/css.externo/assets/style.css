@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around; /*horizontal*/
+    align-items: center;
+
+    border: 5px solid purple;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+#span-first{
+    color: antiquewhite;
+}
